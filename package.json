@@ -1,0 +1,13 @@
+{
+  "name": "rnfirebaseauth",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "firebase": "^2.4.1",
+    "react-native": "^0.18.1",
+    "react-native-gifted-spinner": "0.0.3"
+  }
+}
